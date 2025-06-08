@@ -4,7 +4,7 @@ kotlin = "2.1.20"
 kotlinx-coroutines = "1.10.2"
 ktlint = "12.3.0"
 logback = "1.5.13"
-kge = "0.1.0-SNAPSHOT"
+kge = "0.1.0"
 
 [libraries]
 
